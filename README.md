@@ -1,5 +1,5 @@
 # tape-backup
-The tape-backup system originally for my lab in Tohoku University
+The tape-backup system originally for my lab in Tohoku University - Tool to backup specific directory onto a designated tape drive
 
 ## Features
 
